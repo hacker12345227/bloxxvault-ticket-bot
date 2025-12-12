@@ -1,6 +1,11 @@
 {
   "token": "JOUW_BOT_TOKEN_HIER",
-  "ticket_category_id": 123456789012345678,
-  "staff_role_id": 987654321098765432,
-  "log_channel_id": 112233445566778899
+  "ticket_category_payments": 111111111111111111,
+  "ticket_category_general": 222222222222222222,
+  "ticket_category_orders": 333333333333333333,
+  "ticket_category_support": 444444444444444444,
+  "staff_role_id": 555555555555555555,
+  "log_channel_id": 666666666666666666,
+  "blacklisted_user_ids": [777777777777777777],
+  "blacklisted_words": ["scamword1", "verbodenwoord"]
 }
